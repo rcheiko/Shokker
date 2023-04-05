@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Shokker ( Romain )</h1>
-<h3>A passionate full stack blockchain developer currently at Ledgity</h3>
+<h3>A passionate full stack blockchain developer currently at Liqwid Labs</h3>
 
 
 <h3 align="left">🔨 Some Languages and Tools that i use :</h3>
